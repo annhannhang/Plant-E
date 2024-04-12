@@ -1,5 +1,5 @@
 # Plant-E
-Ứng dụng bán cây trồng, chậu cây trồng, phụ kiện chăm sóc. Là Assignment cho môn CRO102 - Lập trình mobile đa nền tảng - FPT Polytechnic.
+Ứng dụng bán cây trồng, chậu cây trồng, phụ kiện chăm sóc. Là Assignment cho môn CRO102 - Lập trình mobile đa nền tảng 2 - FPT Polytechnic.
 Sử dụng API và có trang web quản lý riêng:
 API:
 Website quản lý:
